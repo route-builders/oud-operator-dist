@@ -1,0 +1,1 @@
+{"version":3,"file":"InvalidABGRColorError.d.ts","sourceRoot":"","sources":["../../src/errors/InvalidABGRColorError.ts"],"names":[],"mappings":"AAOA,qBAAa,qBAAsB,YAAW,KAAK;IACjD,IAAI,SAA8B;IAClC,OAAO,EAAE,MAAM,CAAC;gBAEJ,gBAAgB,EAAE,MAAM;CAGrC"}

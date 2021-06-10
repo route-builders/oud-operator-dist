@@ -1,0 +1,1 @@
+{"version":3,"file":"InvalidHEXColorError.d.ts","sourceRoot":"","sources":["../../src/errors/InvalidHEXColorError.ts"],"names":[],"mappings":"AAOA,qBAAa,oBAAqB,YAAW,KAAK;IAChD,IAAI,SAA6B;IACjC,OAAO,EAAE,MAAM,CAAC;gBAEJ,gBAAgB,EAAE,MAAM;CAGrC"}
