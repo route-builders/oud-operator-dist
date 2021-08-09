@@ -3,4 +3,3 @@ export declare class InvalidHEXColorError implements Error {
     message: string;
     constructor(invalidColorCode: string);
 }
-//# sourceMappingURL=InvalidHEXColorError.d.ts.map

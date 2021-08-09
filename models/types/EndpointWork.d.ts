@@ -6,4 +6,3 @@ export interface EndpointWork {
     arrival?: Time;
     operationNum?: string;
 }
-//# sourceMappingURL=EndpointWork.d.ts.map

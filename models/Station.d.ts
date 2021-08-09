@@ -68,4 +68,3 @@ export declare class Station {
         mainLineUp: number;
     };
 }
-//# sourceMappingURL=Station.d.ts.map

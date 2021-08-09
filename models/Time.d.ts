@@ -7,4 +7,3 @@ export declare class Time {
     compareWith(time: Time): number;
     differenceTo(time: Time): Time;
 }
-//# sourceMappingURL=Time.d.ts.map

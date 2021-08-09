@@ -3,4 +3,3 @@ export declare class InvalidABGRColorError implements Error {
     message: string;
     constructor(invalidColorCode: string);
 }
-//# sourceMappingURL=InvalidABGRColorError.d.ts.map

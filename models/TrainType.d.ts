@@ -37,4 +37,3 @@ export declare class TrainType {
         shoudDrawStopMark: boolean;
     };
 }
-//# sourceMappingURL=TrainType.d.ts.map

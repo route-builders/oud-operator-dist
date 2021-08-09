@@ -31,4 +31,3 @@ export declare class Streak {
         comment: string;
     };
 }
-//# sourceMappingURL=Streak.d.ts.map

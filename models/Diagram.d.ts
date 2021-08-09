@@ -15,4 +15,3 @@ export declare class Diagram {
         upStreaks: Streak[];
     };
 }
-//# sourceMappingURL=Diagram.d.ts.map

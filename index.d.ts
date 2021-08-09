@@ -34,4 +34,3 @@ export declare class O_O {
         diagrams: Diagram[];
     };
 }
-//# sourceMappingURL=index.d.ts.map

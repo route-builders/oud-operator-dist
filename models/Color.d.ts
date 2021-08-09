@@ -14,4 +14,3 @@ export declare class Color {
         b: number;
     };
 }
-//# sourceMappingURL=Color.d.ts.map
