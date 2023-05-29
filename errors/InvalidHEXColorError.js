@@ -4,7 +4,7 @@ exports.InvalidHEXColorError = void 0;
 var InvalidHEXColorError = (function () {
     function InvalidHEXColorError(invalidColorCode) {
         this.name = InvalidHEXColorError.name;
-        this.message = "Invalid format. should be #RRGGBB or #RGB : (" + invalidColorCode + ")";
+        this.message = "Invalid format. should be #RRGGBB or #RGB : (".concat(invalidColorCode, ")");
     }
     return InvalidHEXColorError;
 }());

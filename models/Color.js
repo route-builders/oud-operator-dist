@@ -23,9 +23,9 @@ var Color = (function () {
             var strG = matchResults[0][2];
             var strB = matchResults[0][3];
             if (strR && strG && strB) {
-                this._r = parseInt("" + strR + strR, 16);
-                this._g = parseInt("" + strG + strG, 16);
-                this._b = parseInt("" + strB + strB, 16);
+                this._r = parseInt("".concat(strR).concat(strR), 16);
+                this._g = parseInt("".concat(strG).concat(strG), 16);
+                this._b = parseInt("".concat(strB).concat(strB), 16);
                 return;
             }
         }

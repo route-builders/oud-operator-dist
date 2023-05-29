@@ -4,7 +4,7 @@ exports.InvalidABGRColorError = void 0;
 var InvalidABGRColorError = (function () {
     function InvalidABGRColorError(invalidColorCode) {
         this.name = InvalidABGRColorError.name;
-        this.message = "Invalid format. should be #AABBGGRR : (" + invalidColorCode + ")";
+        this.message = "Invalid format. should be #AABBGGRR : (".concat(invalidColorCode, ")");
     }
     return InvalidABGRColorError;
 }());
