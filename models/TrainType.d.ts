@@ -29,9 +29,17 @@ export declare class TrainType {
     toJSON(): {
         name: string;
         shortname: string;
-        trainColor: Color;
+        trainColor: {
+            r: number;
+            g: number;
+            b: number;
+        };
         fontIdx: number;
-        lineColor: Color;
+        lineColor: {
+            r: number;
+            g: number;
+            b: number;
+        };
         lineType: number;
         lineWeight: number;
         shoudDrawStopMark: boolean;

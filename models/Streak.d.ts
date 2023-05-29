@@ -27,7 +27,12 @@ export declare class Streak {
         name: string;
         no: string | undefined;
         destIdx: number;
-        stHandlings: StHandling[];
+        stHandlings: {
+            type: number;
+            arrival: number;
+            departure: number;
+            track: number;
+        }[];
         comment: string;
     };
 }
